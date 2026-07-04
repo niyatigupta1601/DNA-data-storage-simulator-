@@ -1,0 +1,5 @@
+{
+  "name": "DNA Data Storage Simulator",
+  "description": "An interactive educational tool that simulates the complete pipeline of storing digital image data into DNA sequences and reconstructing it.",
+  "requestFramePermissions": []
+}
